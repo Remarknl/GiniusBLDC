@@ -1,2 +1,2 @@
-BLDC_ROS_controller
+GiniusBLDC
 ===================
